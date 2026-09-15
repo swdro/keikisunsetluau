@@ -56,7 +56,7 @@ print('opens  ', datetime.date(ry,rm,1).strftime('%A %d %B %Y'))
 | **Availability months** | Oct 2026 – Feb 2027 | `book.html` and `index.html` |
 | **Release countdown** | `2026-12-01T07:00:00-10:00` | `book.html`, `data-countdown` |
 | **Phone** | `(808) 555-0164` | all files — `555-01xx` is the reserved fake range |
-| **Email** | `keikisunsetluau@outlook.com` | all files (footer) |
+| **Email** | `support@keikisunsetluau.com` | all files (footer) |
 | **Domain** | `https://keikiluau.com` | all files — `canonical` and `og:` meta tags |
 
 Fast global swaps:

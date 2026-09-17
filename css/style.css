@@ -718,8 +718,8 @@ figure { margin: 0; }
   content: ""; position: absolute; inset: 0 0 auto 0; height: 4px;
   background: var(--accent, var(--ember));
 }
-.month-card--floral { --accent: var(--ember); }
-.month-card--white  { --accent: var(--gold); }
+.month-card--puanani { --accent: var(--gold); }
+.month-card--coral  { --accent: var(--ember); }
 .month-card--mele   { --accent: var(--sea); }
 
 .month-card__month {

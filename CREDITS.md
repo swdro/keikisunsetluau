@@ -17,8 +17,8 @@ legally require attribution to the named photographer.
 | `hula-sunset.jpg` | Hawaiian Luau | commorancy | CC BY 2.0 | [Flickr](https://www.flickr.com/photos/8356650@N03/1401035121) |
 | `hula-torches.jpg` | Hula silhouette | bradhoc | CC BY 2.0 | [Flickr](https://www.flickr.com/photos/58719682@N07/9712256781) |
 | `_archive/buffet.jpg` | hawaii 017 | K-Stick | CC BY 2.0 | [Flickr](https://www.flickr.com/photos/35348750@N07/3905192166) |
-| `imu-crowd.jpg` | Kalua pig being removed from the imu | tweber1 | CC BY 2.0 | [Flickr](https://www.flickr.com/photos/19982106@N00/2394711764) |
-| `luau-evening.jpg` | Old Lahaina Luau 2009-07 | Luke H. Gordon | CC BY 2.0 | [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=9880635) |
+| `luau-imu-sunset.jpg` | Kalua pig being removed from the imu | tweber1 | CC BY 2.0 | [Flickr](https://www.flickr.com/photos/19982106@N00/2394711764) |
+| `beach-luau-feast.jpg` | Old Lahaina Luau 2009-07 | Luke H. Gordon | CC BY 2.0 | [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=9880635) |
 | `hero-fire.jpg` | Firecaster | Joe Parks | CC BY 2.0 | [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=26554199) |
 | `fire-dance.jpg` | Fire dancer | Mynameisben123 | CC BY 3.0 | [Wikimedia](https://commons.wikimedia.org/w/index.php?curid=6984738) |
 
